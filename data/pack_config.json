@@ -3,36 +3,39 @@
   "packAuthor": "Sheryv",
   "packVersion": "3-0",
   "mcVersion": "1.10.2",
-  "packUpdateDateString": "2017-06-29T18:58:11.339+02:00",
-  "packUpdateDate": 1498755491339,
+  "packUpdateDateString": "2017-07-04T22:06:04.222+02:00",
+  "packUpdateDate": 1499198764222,
   "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3-0/mods/",
   "usePackUrl": true,
   "packWebsite": "https://github.com/Detronit/xenypack",
+  "forgeVersion": "1.10.2-12.18.3.2316",
+  "forgeUrl": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.3.2316/forge-1.10.2-12.18.3.2316-installer.jar",
+  "shouldDownloadConfigs": true,
   "mods": [
     {
-      "name": "Chiselsandbits-12.12.jar",
+      "name": "Compatlayer-1.10-0.2.9.jar",
       "url": "",
-      "version": "12.12",
+      "version": "1.10-0.2.9",
       "selected": true
     },
     {
-      "name": "EnderIO-1.10.2-3.1.183.jar",
+      "name": "Mcjtylib-1.1x-2.3.11.jar",
       "url": "",
-      "version": "1.10.2-3.1.183",
+      "version": "1.1x-2.3.11",
       "selected": true
     },
     {
-      "name": "Flatcoloredblocks-mc1.10-v4.4.jar",
+      "name": "Simplecore-1.10.2-1.4.5.1.jar",
       "url": "",
-      "version": "mc1.10-v4.4",
+      "version": "1.10.2-1.4.5.1",
       "selected": true
     },
     {
-      "name": "Railcraftt++Railcraft.zip",
+      "name": "StorageDrawers-1.10.2-3.7.9.jar",
       "url": "",
-      "version": "",
-      "selected": true,
-      "requiredBy": "Railcraftt"
+      "version": "1.10.2-3.7.9",
+      "selected": true
     }
-  ]
+  ],
+  "configPackage": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3-0/config_package.zip"
 }
