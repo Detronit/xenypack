@@ -1,0 +1,38 @@
+{
+  "packName": "XenyPack",
+  "packAuthor": "Sheryv",
+  "packVersion": "3-0",
+  "mcVersion": "1.10.2",
+  "packUpdateDateString": "2017-06-29T18:58:11.339+02:00",
+  "packUpdateDate": 1498755491339,
+  "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3-0/mods/",
+  "usePackUrl": true,
+  "packWebsite": "https://github.com/Detronit/xenypack",
+  "mods": [
+    {
+      "name": "Chiselsandbits-12.12.jar",
+      "url": "",
+      "version": "12.12",
+      "selected": true
+    },
+    {
+      "name": "EnderIO-1.10.2-3.1.183.jar",
+      "url": "",
+      "version": "1.10.2-3.1.183",
+      "selected": true
+    },
+    {
+      "name": "Flatcoloredblocks-mc1.10-v4.4.jar",
+      "url": "",
+      "version": "mc1.10-v4.4",
+      "selected": true
+    },
+    {
+      "name": "Railcraftt++Railcraft.zip",
+      "url": "",
+      "version": "",
+      "selected": true,
+      "requiredBy": "Railcraftt"
+    }
+  ]
+}
