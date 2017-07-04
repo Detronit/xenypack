@@ -1,11 +1,11 @@
 {
   "packName": "XenyPack",
   "packAuthor": "Sheryv",
-  "packVersion": "3-0",
+  "packVersion": "3.1",
   "mcVersion": "1.10.2",
-  "packUpdateDateString": "2017-07-04T22:06:04.222+02:00",
-  "packUpdateDate": 1499198764222,
-  "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3-0/mods/",
+  "packUpdateDateString": "2017-07-04T23:00:10.436+02:00",
+  "packUpdateDate": 1499202010436,
+  "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3/mods/",
   "usePackUrl": true,
   "packWebsite": "https://github.com/Detronit/xenypack",
   "forgeVersion": "1.10.2-12.18.3.2316",
@@ -13,9 +13,297 @@
   "shouldDownloadConfigs": true,
   "mods": [
     {
+      "name": "AppleSkin-mc1.10.2-1.0.5.jar",
+      "url": "",
+      "version": "mc1.10.2-1.0.5",
+      "selected": true
+    },
+    {
+      "name": "Aroma1997Core-1.9.4-1.1.1.2.jar",
+      "url": "",
+      "version": "1.9.4-1.1.1.2",
+      "selected": true
+    },
+    {
+      "name": "Aroma1997s_Dimensional_World-1.9.4-1.2.0.7.jar",
+      "url": "",
+      "version": "1.9.4-1.2.0.7",
+      "selected": true
+    },
+    {
+      "name": "AutoRegLib-1.0-2.jar",
+      "url": "",
+      "version": "1.0-2",
+      "selected": true
+    },
+    {
+      "name": "Baubles-1.10.2-1.3.11.jar",
+      "url": "",
+      "version": "1.10.2-1.3.11",
+      "selected": true
+    },
+    {
+      "name": "BetterFps-1.4.5-1.10.jar",
+      "url": "",
+      "version": "1.4.5-1.10",
+      "selected": true
+    },
+    {
+      "name": "BetterQuesting-2.3.234.jar",
+      "url": "",
+      "version": "2.3.234",
+      "selected": true
+    },
+    {
+      "name": "BetterQuesting_StandardExpansion-2.3.131.jar",
+      "url": "",
+      "version": "2.3.131",
+      "selected": true
+    },
+    {
+      "name": "BiblioCraft-v2.2.4-MC1.10.2.jar",
+      "url": "",
+      "version": "v2.2.4-MC1.10.2",
+      "selected": true
+    },
+    {
+      "name": "Chameleon-1.10.2-2.3.0.jar",
+      "url": "",
+      "version": "1.10.2-2.3.0",
+      "selected": true
+    },
+    {
+      "name": "ChickenChunks-1.10.2-2.2.0.52-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.2.0.52-universal",
+      "selected": true
+    },
+    {
+      "name": "Chisel-MC1.10.2-0.0.11.25.jar",
+      "url": "",
+      "version": "MC1.10.2-0.0.11.25",
+      "selected": true
+    },
+    {
+      "name": "CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.4.1.102-universal",
+      "selected": true
+    },
+    {
+      "name": "CodeChickenLib-1.10.2-2.5.9.267-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.5.9.267-universal",
+      "selected": true
+    },
+    {
+      "name": "CoFHCore-1.10.2-4.1.6.10-universal.jar",
+      "url": "",
+      "version": "1.10.2-4.1.6.10-universal",
+      "selected": true
+    },
+    {
       "name": "Compatlayer-1.10-0.2.9.jar",
       "url": "",
       "version": "1.10-0.2.9",
+      "selected": true
+    },
+    {
+      "name": "ConnectedTexturesM-MC1.10.2-0.1.1.16.jar",
+      "url": "",
+      "version": "MC1.10.2-0.1.1.16",
+      "selected": true
+    },
+    {
+      "name": "Coroutil-1.10.2-1.1.16.jar",
+      "url": "",
+      "version": "1.10.2-1.1.16",
+      "selected": true
+    },
+    {
+      "name": "CraftingTweaks_1.10.2-6.1.16.jar",
+      "url": "",
+      "version": "6.1.16",
+      "selected": true
+    },
+    {
+      "name": "CraftTweaker-1.10.2-3.0.26.jar",
+      "url": "",
+      "version": "1.10.2-3.0.26",
+      "selected": true
+    },
+    {
+      "name": "Davincisvessels-1.10.2-0006-full.jar",
+      "url": "",
+      "version": "1.10.2-0006-full",
+      "selected": true
+    },
+    {
+      "name": "Deepresonance-1.1x-1.4.8.jar",
+      "url": "",
+      "version": "1.1x-1.4.8",
+      "selected": true
+    },
+    {
+      "name": "ElecCore-1.10.2-1.7.425.jar",
+      "url": "",
+      "version": "1.10.2-1.7.425",
+      "selected": true
+    },
+    {
+      "name": "EnderCore-1.10.2-0.4.1.66-beta.jar",
+      "url": "",
+      "version": "1.10.2-0.4.1.66-beta",
+      "selected": true
+    },
+    {
+      "name": "EnderIO-1.10.2-3.1.193.jar",
+      "url": "",
+      "version": "1.10.2-3.1.193",
+      "selected": true
+    },
+    {
+      "name": "EnderStorage-1.10.2-2.2.1.106-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.2.1.106-universal",
+      "selected": true
+    },
+    {
+      "name": "ExtremeReactors-1.10.2-0.4.5.30.jar",
+      "url": "",
+      "version": "1.10.2-0.4.5.30",
+      "selected": true
+    },
+    {
+      "name": "FastLeafDecay-v11.jar",
+      "url": "",
+      "version": "v11",
+      "selected": true
+    },
+    {
+      "name": "Foamfix-0.6.3-anarchy.jar",
+      "url": "",
+      "version": "0.6.3-anarchy",
+      "selected": true
+    },
+    {
+      "name": "Forgelin-1.5.0.jar",
+      "url": "",
+      "version": "1.5.0",
+      "selected": true
+    },
+    {
+      "name": "FTBLib-1.1x-3.6.5.jar",
+      "url": "",
+      "version": "1.1x-3.6.5",
+      "selected": true
+    },
+    {
+      "name": "FTBUtilities-1.1x-3.6.5.jar",
+      "url": "",
+      "version": "1.1x-3.6.5",
+      "selected": true
+    },
+    {
+      "name": "Grapple-Hooks-1.10.2-1.0.8.jar",
+      "url": "",
+      "version": "Hooks-1.10.2-1.0.8",
+      "selected": true
+    },
+    {
+      "name": "Gravestone-1.5.13.jar",
+      "url": "",
+      "version": "1.5.13",
+      "selected": true
+    },
+    {
+      "name": "Guide-API-1.10.2-2.0.3-46.jar",
+      "url": "",
+      "version": "API-1.10.2-2.0.3-46",
+      "selected": true
+    },
+    {
+      "name": "Hwyla-1.8.17-B31_1.10.2.jar",
+      "url": "",
+      "version": "1.8.17-B31_1.10.2",
+      "selected": true
+    },
+    {
+      "name": "InGameInfoXML-1.10.2-2.8.1.89-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.8.1.89-universal",
+      "selected": true
+    },
+    {
+      "name": "InventoryTweaks-1.62-dev-66.jar",
+      "url": "",
+      "version": "1.62-dev-66",
+      "selected": true
+    },
+    {
+      "name": "IronBackpacks-1.10.2-2.2.27.jar",
+      "url": "",
+      "version": "1.10.2-2.2.27",
+      "selected": true
+    },
+    {
+      "name": "Ironchest-1.10.2-7.0.15.804.jar",
+      "url": "",
+      "version": "1.10.2-7.0.15.804",
+      "selected": true
+    },
+    {
+      "name": "Itemscroller-1.10.2-0.11.0.jar",
+      "url": "",
+      "version": "1.10.2-0.11.0",
+      "selected": true
+    },
+    {
+      "name": "IvToolkit-1.3.3-1.10.jar",
+      "url": "",
+      "version": "1.3.3-1.10",
+      "selected": true
+    },
+    {
+      "name": "Jei_1.10.2-3.14.7.420.jar",
+      "url": "",
+      "version": "3.14.7.420",
+      "selected": true
+    },
+    {
+      "name": "Journeymap-1.10.2-5.4.7.jar",
+      "url": "",
+      "version": "1.10.2-5.4.7",
+      "selected": true
+    },
+    {
+      "name": "JustEnoughResources-1.10.2-0.5.9.3.jar",
+      "url": "",
+      "version": "1.10.2-0.5.9.3",
+      "selected": true
+    },
+    {
+      "name": "Login_Shield-1.10.2-19-gd16e7e0.jar",
+      "url": "",
+      "version": "1.10.2-19-gd16e7e0",
+      "selected": true
+    },
+    {
+      "name": "Lostcities-1.1x-0.0.12beta.jar",
+      "url": "",
+      "version": "1.1x-0.0.12beta",
+      "selected": true
+    },
+    {
+      "name": "LunatriusCore-1.10.2-1.1.2.38-universal.jar",
+      "url": "",
+      "version": "1.10.2-1.1.2.38-universal",
+      "selected": true
+    },
+    {
+      "name": "Mantle-1.10.2-1.1.5.jar",
+      "url": "",
+      "version": "1.10.2-1.1.5",
       "selected": true
     },
     {
@@ -25,9 +313,129 @@
       "selected": true
     },
     {
+      "name": "MCMultiPart-1.4.0-universal.jar",
+      "url": "",
+      "version": "1.4.0-universal",
+      "selected": true
+    },
+    {
+      "name": "MineFactoryReloaded-[1.10.2]2.9.0B1-221.jar",
+      "url": "",
+      "version": "[1.10.2]2.9.0B1-221",
+      "selected": true
+    },
+    {
+      "name": "MmmMmmMmmMmm-1.10.2-1.13.jar",
+      "url": "",
+      "version": "1.10.2-1.13",
+      "selected": true
+    },
+    {
+      "name": "Movingworld-1.10.2-0007-full.jar",
+      "url": "",
+      "version": "1.10.2-0007-full",
+      "selected": true
+    },
+    {
+      "name": "MrTJPCore-1.10.2-2.0.1.20-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.0.1.20-universal",
+      "selected": true
+    },
+    {
+      "name": "NoMobSpawningOnTrees-1.2.0-mc1.10.2.jar",
+      "url": "",
+      "version": "1.2.0-mc1.10.2",
+      "selected": true
+    },
+    {
+      "name": "Notenoughwands-1.1x-1.5.5.jar",
+      "url": "",
+      "version": "1.1x-1.5.5",
+      "selected": true
+    },
+    {
+      "name": "Quark-r1.1-70.jar",
+      "url": "",
+      "version": "r1.1-70",
+      "selected": true
+    },
+    {
+      "name": "Railcraft_1.10.2-10.1.2.jar",
+      "url": "",
+      "version": "10.1.2",
+      "selected": true
+    },
+    {
+      "name": "Rangedpumps-0.3.jar",
+      "url": "",
+      "version": "0.3",
+      "selected": true
+    },
+    {
+      "name": "RecurrentComplex-1.4.3.1-1.10.jar",
+      "url": "",
+      "version": "1.4.3.1-1.10",
+      "selected": true
+    },
+    {
+      "name": "Refinedstorage-1.2.26.jar",
+      "url": "",
+      "version": "1.2.26",
+      "selected": true
+    },
+    {
+      "name": "Rftools-1.1x-6.01.jar",
+      "url": "",
+      "version": "1.1x-6.01",
+      "selected": true
+    },
+    {
+      "name": "Rftoolsctrl-1.1x-1.6.8.jar",
+      "url": "",
+      "version": "1.1x-1.6.8",
+      "selected": true
+    },
+    {
+      "name": "Rftoolsdim-1.1x-5.02.jar",
+      "url": "",
+      "version": "1.1x-5.02",
+      "selected": true
+    },
+    {
+      "name": "RoguelikeDungeons-1.10.2-1.5.9.jar",
+      "url": "",
+      "version": "1.10.2-1.5.9",
+      "selected": true
+    },
+    {
+      "name": "Schematica-1.10.2-1.7.8.153-universal.jar",
+      "url": "",
+      "version": "1.10.2-1.7.8.153-universal",
+      "selected": true
+    },
+    {
+      "name": "ShadowMC-1.10.2-3.6.1.jar",
+      "url": "",
+      "version": "1.10.2-3.6.1",
+      "selected": true
+    },
+    {
       "name": "Simplecore-1.10.2-1.4.5.1.jar",
       "url": "",
       "version": "1.10.2-1.4.5.1",
+      "selected": true
+    },
+    {
+      "name": "SimpleCorn-1.10.2-2.2.0.jar",
+      "url": "",
+      "version": "1.10.2-2.2.0",
+      "selected": true
+    },
+    {
+      "name": "Simpleores-1.10.2-1.8.6.8.jar",
+      "url": "",
+      "version": "1.10.2-1.8.6.8",
       "selected": true
     },
     {
@@ -35,7 +443,253 @@
       "url": "",
       "version": "1.10.2-3.7.9",
       "selected": true
+    },
+    {
+      "name": "SuperCircuitMaker-1.0.4.jar",
+      "url": "",
+      "version": "1.0.4",
+      "selected": true
+    },
+    {
+      "name": "TConstruct-1.10.2-2.6.5.jar",
+      "url": "",
+      "version": "1.10.2-2.6.5",
+      "selected": true
+    },
+    {
+      "name": "ThermalDynamics-1.10.2-2.0.7.10-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.0.7.10-universal",
+      "selected": true
+    },
+    {
+      "name": "ThermalExpansion-1.10.2-5.1.6.8-universal.jar",
+      "url": "",
+      "version": "1.10.2-5.1.6.8-universal",
+      "selected": true
+    },
+    {
+      "name": "ThermalFoundation-1.10.2-2.1.2.4-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.1.2.4-universal",
+      "selected": true
+    },
+    {
+      "name": "WailaHarvestability-mc1.10.2-1.1.10.jar",
+      "url": "",
+      "version": "mc1.10.2-1.1.10",
+      "selected": true
+    },
+    {
+      "name": "Worldedit-mc1.10.2-6.1.4-dist.jar",
+      "url": "",
+      "version": "mc1.10.2-6.1.4-dist",
+      "selected": true
+    },
+    {
+      "name": "Xnet-1.3.2.jar",
+      "url": "",
+      "version": "1.3.2",
+      "selected": true
+    },
+    {
+      "name": "Zerocore-1.10.2-0.1.0.6.jar",
+      "url": "",
+      "version": "1.10.2-0.1.0.6",
+      "selected": true
+    },
+    {
+      "name": "Zombieawareness-1.10.2-1.11.7.jar",
+      "url": "",
+      "version": "1.10.2-1.11.7",
+      "selected": true
+    },
+     {
+      "name": "AdvancedRocketry-1.10.2-1.2.2.jar",
+      "url": "",
+      "version": "1.10.2-1.2.2",
+      "selected": false
+    },
+    {
+      "name": "AkashicTome-1.0-5.jar",
+      "url": "",
+      "version": "1.0-5",
+      "selected": false
+    },
+    {
+      "name": "Analyzeio-1.10.2-0.3.3.22.jar",
+      "url": "",
+      "version": "1.10.2-0.3.3.22",
+      "selected": false
+    },
+    {
+      "name": "Appliedenergistics2-rv4-alpha-11.jar",
+      "url": "",
+      "version": "rv4-alpha-11",
+      "selected": false
+    },
+    {
+      "name": "ArchitectureCraft-1.7.3-mc1.10.2.jar",
+      "url": "",
+      "version": "1.7.3-mc1.10.2",
+      "selected": false
+    },
+    {
+      "name": "BadWitherNoCookie-1.10.2-0.0.1-5418dde.jar",
+      "url": "",
+      "version": "1.10.2-0.0.1-5418dde",
+      "selected": false
+    },
+    {
+      "name": "BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+      "url": "",
+      "version": "1.10.2-5.0.0.2236-universal",
+      "selected": false
+    },
+    {
+      "name": "BloodMagic-1.10.2-2.1.11-80.jar",
+      "url": "",
+      "version": "1.10.2-2.1.11-80",
+      "selected": false
+    },
+    {
+      "name": "Botania-r1.9-341.jar",
+      "url": "",
+      "version": "r1.9-341",
+      "selected": false
+    },
+    {
+      "name": "Chiselsandbits-12.14.jar",
+      "url": "",
+      "version": "12.14",
+      "selected": false
+    },
+    {
+      "name": "CustomMobSpawner-3.10.1.jar",
+      "url": "",
+      "version": "3.10.1",
+      "selected": false
+    },
+    {
+      "name": "Draconic_Evolution-1.10.2-2.1.1.236-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.1.1.236-universal",
+      "selected": false
+    },
+    {
+      "name": "DrZhark\u0027s_Mo\u0027Creatures-Mod-10.0.6.jar",
+      "url": "",
+      "version": "Mod-10.0.6",
+      "selected": false
+    },
+    {
+      "name": "Flatcoloredblocks-mc1.10-v4.4.jar",
+      "url": "",
+      "version": "mc1.10-v4.4",
+      "selected": false
+    },
+    {
+      "name": "Forestry_1.10.2-5.2.17.377.jar",
+      "url": "",
+      "version": "5.2.17.377",
+      "selected": false
+    },
+    {
+      "name": "ForgeMultipart-1.10.2-2.0.0.31-universal.jar",
+      "url": "",
+      "version": "1.10.2-2.0.0.31-universal",
+      "selected": false
+    },
+    {
+      "name": "FullscreenWindowed-1.10.2-1.5.0.jar",
+      "url": "",
+      "version": "1.10.2-1.5.0",
+      "selected": false
+    },
+    {
+      "name": "ImmersiveEngineering-0.10-61.jar",
+      "url": "",
+      "version": "0.10-61",
+      "selected": false
+    },
+    {
+      "name": "Industrialcraft-2-2.6.234-ex110.jar",
+      "url": "",
+      "version": "2-2.6.234-ex110",
+      "selected": false
+    },
+    {
+      "name": "InfernalMobs-1.10.jar",
+      "url": "",
+      "version": "1.10",
+      "selected": false
+    },
+    {
+      "name": "OpenComputers-MC1.10.2-1.6.2.7.jar",
+      "url": "",
+      "version": "MC1.10.2-1.6.2.7",
+      "selected": false
+    },
+    {
+      "name": "OptiFine_1.10.2_HD_U_E3.jar",
+      "url": "",
+      "version": "",
+      "selected": false
+    },
+    {
+      "name": "OreDictionaryConverter-1.9.1.jar",
+      "url": "",
+      "version": "1.9.1",
+      "selected": false
+    },
+    {
+      "name": "Pam\u0027s_HarvestCraft-1.10.2j.jar",
+      "url": "",
+      "version": "1.10.2j",
+      "selected": false
+    },
+    {
+      "name": "ProgressiveAutomation-1.10.2-1.7.4.jar",
+      "url": "",
+      "version": "1.10.2-1.7.4",
+      "selected": false
+    },
+    {
+      "name": "ProjectRed_Base-1.10.2-4.8.4.49.jar",
+      "url": "",
+      "version": "1.10.2-4.8.4.49",
+      "selected": false
+    },
+    {
+      "name": "ProjectRed_integration-1.10.2-4.8.4.49.jar",
+      "url": "",
+      "version": "1.10.2-4.8.4.49",
+      "selected": false
+    },
+    {
+      "name": "ProjectRed_lighting-1.10.2-4.8.4.49.jar",
+      "url": "",
+      "version": "1.10.2-4.8.4.49",
+      "selected": false
+    },
+    {
+      "name": "ProjectRed_mechanical-1.10.2-4.8.4.49.jar",
+      "url": "",
+      "version": "1.10.2-4.8.4.49",
+      "selected": false
+    },
+    {
+      "name": "Theoneprobe-1.1x-1.4.7.jar",
+      "url": "",
+      "version": "1.1x-1.4.7",
+      "selected": false
+    },
+    {
+      "name": "YeOldeTanks-1.10.2-2.0.2.jar",
+      "url": "",
+      "version": "1.10.2-2.0.2",
+      "selected": false
     }
   ],
-  "configPackage": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3-0/config_package.zip"
+  "configPackage": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3/config_package.zip"
 }
