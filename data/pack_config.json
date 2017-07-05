@@ -1,10 +1,10 @@
 {
   "packName": "XenyPack",
   "packAuthor": "Sheryv",
-  "packVersion": "3.1.3",
+  "packVersion": "3.1.4",
   "mcVersion": "1.10.2",
-  "packUpdateDateString": "2017-07-04T23:00:10.436+02:00",
-  "packUpdateDate": 1499202010436,
+  "packUpdateDateString": "2017-07-05T22:08:21.928+02:00",
+  "packUpdateDate": 1499285301928,
   "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3/mods/",
   "usePackUrl": true,
   "packWebsite": "https://github.com/Detronit/xenypack",
@@ -504,7 +504,19 @@
       "version": "1.10.2-1.11.7",
       "selected": true
     },
-     {
+    {
+      "name": "FancyFluidStorage-1.10.2-2.0.3-b11.jar",
+      "url": "",
+      "version": "1.10.2-2.0.3-b11",
+      "selected": true
+    },
+    {
+      "name": "AbyssalCraft-1.10.2-1.9.4-pre-4.jar",
+      "url": "",
+      "version": "1.10.2-1.9.4-pre-4",
+      "selected": false
+    },
+    {
       "name": "AdvancedRocketry-1.10.2-1.2.2.jar",
       "url": "",
       "version": "1.10.2-1.2.2",
@@ -550,13 +562,13 @@
       "name": "BloodMagic-1.10.2-2.1.11-80.jar",
       "url": "",
       "version": "1.10.2-2.1.11-80",
-      "selected": false
+      "selected": true
     },
     {
       "name": "Botania-r1.9-341.jar",
       "url": "",
       "version": "r1.9-341",
-      "selected": false
+      "selected": true
     },
     {
       "name": "Chiselsandbits-12.14.jar",
