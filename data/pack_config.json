@@ -1,10 +1,10 @@
 {
   "packName": "XenyPack",
   "packAuthor": "Sheryv",
-  "packVersion": "3.1.4",
+  "packVersion": "3.1.5",
   "mcVersion": "1.10.2",
-  "packUpdateDateString": "2017-07-05T22:08:21.928+02:00",
-  "packUpdateDate": 1499285301928,
+  "packUpdateDateString": "2017-07-08",
+  "packUpdateDate": 1499531262627,
   "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/3/mods/",
   "usePackUrl": true,
   "packWebsite": "https://github.com/Detronit/xenypack",
@@ -616,7 +616,7 @@
       "name": "FullscreenWindowed-1.10.2-1.5.0.jar",
       "url": "",
       "version": "1.10.2-1.5.0",
-      "selected": false
+      "selected": true
     },
     {
       "name": "ImmersiveEngineering-0.10-61.jar",
@@ -640,7 +640,7 @@
       "name": "OpenComputers-MC1.10.2-1.6.2.7.jar",
       "url": "",
       "version": "MC1.10.2-1.6.2.7",
-      "selected": false
+      "selected": true
     },
     {
       "name": "OptiFine_1.10.2_HD_U_E3.jar",
