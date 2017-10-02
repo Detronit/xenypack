@@ -1,16 +1,17 @@
 {
   "packName": "XenyPack",
   "packAuthor": "Sheryv",
-  "packVersion": "4.0.0",
+  "packVersion": "4.0.1",
   "mcVersion": "1.12.2",
-  "packUpdateDateString": "2017-10-02T00:31:54.164+02:00",
-  "packUpdateDate": 1506897114164,
+  "packUpdateDateString": "2017-10-02T18:52:34.105+02:00",
+  "packUpdateDate": 1506963154105,
   "packUrl": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/400/mods/",
   "usePackUrl": true,
   "packWebsite": "https://github.com/Detronit/xenypack",
   "forgeVersion": "1.12.2-14.23.0.2491",
   "forgeUrl": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.0.2491/forge-1.12.2-14.23.0.2491-installer.jar",
   "shouldDownloadConfigs": true,
+  "configPackage": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/400/config_package.zip",
   "mods": [
     {
       "name": "Ae2stuff-0.7.0.1-mc1.12.1.jar",
@@ -40,6 +41,12 @@
       "name": "Aroma1997s_DimensionalWorld_1.12.1-2.0.0.0.b56.jar",
       "url": "",
       "version": "2.0.0.0.b56",
+      "selected": true
+    },
+    {
+      "name": "Astralsorcery-1.6.1.jar",
+      "url": "",
+      "version": "1.6.1",
       "selected": true
     },
     {
@@ -235,6 +242,12 @@
       "selected": true
     },
     {
+      "name": "MobGrindingUtils-0.3.2.jar",
+      "url": "",
+      "version": "0.3.2",
+      "selected": true
+    },
+    {
       "name": "Modtweaker-4.0.2.jar",
       "url": "",
       "version": "4.0.2",
@@ -421,6 +434,12 @@
       "selected": true
     },
     {
+      "name": "Waystones_1.12.1-4.0.15.jar",
+      "url": "",
+      "version": "4.0.15",
+      "selected": true
+    },
+    {
       "name": "Worldedit-6.1.8-dist.jar",
       "url": "",
       "version": "6.1.8-dist",
@@ -472,12 +491,6 @@
       "name": "AppleCore-mc1.12.2-2.2.2.jar",
       "url": "",
       "version": "mc1.12.2-2.2.2",
-      "selected": false
-    },
-    {
-      "name": "Astralsorcery-1.6.1.jar",
-      "url": "",
-      "version": "1.6.1",
       "selected": false
     },
     {
@@ -1105,15 +1118,9 @@
       "selected": false
     },
     {
-      "name": "Waystones_1.12.1-4.0.15.jar",
+      "name": "World-Stripper-1.4.1-1.12.1.jar",
       "url": "",
-      "version": "4.0.15",
-      "selected": false
-    },
-    {
-      "name": "World_Stripper-1.4.1-1.12.1.jar",
-      "url": "",
-      "version": "1.4.1-1.12.1",
+      "version": "Stripper-1.4.1-1.12.1",
       "selected": false
     },
     {
@@ -1134,6 +1141,5 @@
       "version": "1.12-1.0.6-9",
       "selected": false
     }
-  ],
-  "configPackage": "https://raw.githubusercontent.com/Detronit/xenypack/master/data/400/config_package.zip"
+  ]
 }
